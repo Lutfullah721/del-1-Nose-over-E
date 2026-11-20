@@ -20,7 +20,30 @@
 // }
 
 // 4
+// for(int i = 0; i < 32; i++)
+// {
+// Console.WriteLine("Hello, World");
+// }
 
+// 5
+while(true)
+{
+   Console.WriteLine(""); 
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+Console.ReadLine();
 
 
 
